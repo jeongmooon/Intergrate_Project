@@ -9,7 +9,24 @@
             - https://ganzicoder.tistory.com/65
 
             - CRUD
-            https://youngjinmo.github.io/2021/08/express-crud-rest-api/
+                - https://youngjinmo.github.io/2021/08/express-crud-rest-api/
+
+        - password 보안관련(salt, crypto, hash)
+            1) crypto 관련 사항들
+                - https://www.zerocho.com/category/NodeJS/post/593a487c2ed1da0018cff95d
+
+                - https://zinirun.github.io/2020/12/02/node-crypto-password/
+
+                - https://velog.io/@tkdfo93/Node-Express-Crypto-%EB%AA%A8%EB%93%88%EC%9D%84-%ED%86%B5%ED%95%9C-%ED%95%B4%EC%8B%B1-Final-Project
+            
+            2) 여러번 비밀번호 틀릴 시 계정잠금?
+                - User 스키마에 틀릴때마다 카운트올리고, bolean 디폴트값 false로 주고 true시 로그인불가능? 하게??
+
+                - https://doorbw.tistory.com/38
+
+                
+        - 아이디 중복체크 관련
+            - https://blog.naver.com/PostView.nhn?blogId=ks2414e&logNo=222183290304
 
     3. AWS
         - AWS 가입 포스팅
