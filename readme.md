@@ -1,3 +1,32 @@
+# 프로젝트 진행경과 주소
+        - https://trello.com/b/aMBOpNcB/project-2021
+
+    1. 참고 사이트
+        - 몽고DB 공식문서 https://docs.mongodb.com/
+
+        - express 게시판 참고
+            - https://ganzicoder.tistory.com/65
+
+            - CRUD
+            https://youngjinmo.github.io/2021/08/express-crud-rest-api/
+
+    2. AWS
+        - AWS 가입 포스팅
+            - https://jungmina.com/m/888
+            
+        - AWS공식문서
+            - https://aws.amazon.com/ko/quickstart/architecture/mongodb/
+
+        - AWS에 몽고DB올린거 포스팅
+            - https://snepbnt.tistory.com/393
+
+        - AWS MySQL 유튜브영상
+            - https://www.youtube.com/watch?v=wdaMD6yQVh4
+
+        - AWS MongoDB 세팅 영상(영어임)
+            - https://www.youtube.com/watch?v=fhl8Ps7o0tk
+
+
 # 몽고DB 
 1. db명 : projectadd
 
