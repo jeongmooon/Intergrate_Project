@@ -24,7 +24,7 @@
         - AWS MySQL 유튜브영상
             - https://www.youtube.com/watch?v=wdaMD6yQVh4
 
-        - AWS MongoDB 세팅 영상(영어임)
+        - AWS MongoDB 세팅 영상(외국어임)
             - https://www.youtube.com/watch?v=fhl8Ps7o0tk
 
 
