@@ -45,13 +45,18 @@
             - https://www.youtube.com/watch?v=fhl8Ps7o0tk
 
 
+# 12-13 서버 상태
+1. 회원가입, 로그인라우터 만듬
+<img src="https://user-images.githubusercontent.com/92348108/145719847-7ba7361e-1157-4884-a540-4b6b14718cb6.PNG" />
+
+
 # 몽고DB 
 1. db명 : projectadd
 
 2. collection명 : users(회원가입), board(게시판)
 
 3. 스키마
-    1) user : email, name, password, createAt, salt?
+    1) user : email, name, password, createAt, salt, signinCount(계정카운트), lockAccount(계정잠금)
         - user 스키마 내용
         - email은 고유키로 받음, createAt는 가입한시간
         - salt라고 비밀번호 보안관련 있음 가능하면 해볼 예정
