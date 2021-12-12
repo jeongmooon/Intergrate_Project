@@ -18,6 +18,18 @@ const userSchema = new Schema({
     createAt:{
         type: Date,
         default: Date.now,
+    },
+    salt:{
+        type:String,
+        required:true,
+    },
+    signinCount:{
+        type:Number,
+        default:0
+    },
+    lockAccount:{
+        type: Boolean,
+        default:false,
     }
 })
 
