@@ -1,7 +1,8 @@
-# 프로젝트 진행경과 주소
+# 프로젝트 관련 주소
+    1. 프로젝트 경과 주소
         - https://trello.com/b/aMBOpNcB/project-2021
 
-    1. 참고 사이트
+    2. 참고 사이트
         - 몽고DB 공식문서 https://docs.mongodb.com/
 
         - express 게시판 참고
@@ -10,10 +11,10 @@
             - CRUD
             https://youngjinmo.github.io/2021/08/express-crud-rest-api/
 
-    2. AWS
+    3. AWS
         - AWS 가입 포스팅
             - https://jungmina.com/m/888
-            
+
         - AWS공식문서
             - https://aws.amazon.com/ko/quickstart/architecture/mongodb/
 
